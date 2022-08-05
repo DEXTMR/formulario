@@ -15,3 +15,9 @@ header{
     background: #37488b;
     padding: 0.5em;
 }
+footer{
+    background-color: dodgerblue;
+    margin: 0px;
+    padding: 0.5em;
+    font-weight: bold; /* El grozor de la letra*/
+}  
